@@ -1,8 +1,8 @@
 # CS121-The-Java-Guesser-
 ## Algorithm 
 ```
-## Main 
-```
+### Main 
+```text
 main() 
     - guesser object 
     - constructor 
@@ -10,7 +10,7 @@ main()
 ```
 
 ## Guesser
-```
+```text
 guesser() 
     - scanner for user input 
     - choice = -1
@@ -30,6 +30,6 @@ guesser()
 ```
 
 ## humanGuesser
-```
+```text
 humanGuesser() 
     - generate random number  
