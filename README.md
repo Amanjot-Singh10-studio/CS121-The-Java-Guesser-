@@ -3,7 +3,7 @@
 ```
 ```
 ## Main
-```text
+```
 main() 
     - guesser object 
     - constructor 
@@ -11,7 +11,7 @@ main()
 ```
 
 ## Guesser
-```text
+```
 guesser() 
     - scanner for user input 
     - choice = -1
@@ -31,7 +31,7 @@ guesser()
 ```
 
 ## humanGuesser
-```text
+```
 humanGuesser() 
     - generate random number 
     - guess and turns = 0 
@@ -51,5 +51,5 @@ humanGuesser()
 
 ## computerGuesser  
 ``` 
-computerGuesser
+computerGuesser()
     - 
