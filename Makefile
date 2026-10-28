@@ -6,4 +6,3 @@ run: Guesser.class
 	java Guesser
 debug: Guesser.class
 	jdb Guesser
-

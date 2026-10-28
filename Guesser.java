@@ -82,7 +82,7 @@ public void computerGuesser(Scanner input) {
 	if (low > high) { 
 	    System.out.println("Answers do not match!"); 
     	} 
-}
+    }
 } 
 
 

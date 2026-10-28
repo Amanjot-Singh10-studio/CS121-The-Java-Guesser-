@@ -76,7 +76,7 @@ computerGuesser()
             - print Invalid response!
             - turns 
     - if low > high 
-        - print Amswer do not match!
+        - print Answer do not match!
 ```
 
 
