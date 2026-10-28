@@ -1,5 +1,5 @@
 # CS121-The-Java-Guesser-
-## Algorithm 
+## Algorithm
 ```
 ```
 ## Main
@@ -33,4 +33,23 @@ guesser()
 ## humanGuesser
 ```text
 humanGuesser() 
-    - generate random number  
+    - generate random number 
+    - guess and turns = 0 
+    - print human guesser
+    - loop while guess is not correct
+        - add +1 to turns
+        - ask user to enter a number 
+        - if guess is greater than the number 
+            - print too high 
+        - else if guess if less than number then 
+            - print too low 
+        - otherwise: 
+            - display "Got it good job!" 
+    - repeat until guess is correct
+    - end 
+```
+
+## computerGuesser  
+``` 
+computerGuesser
+    - 
