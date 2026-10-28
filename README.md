@@ -23,7 +23,7 @@ guesser()
         - else if choice is 2
             - computerGuesser() 
         - else if choice is 0 
-            - print thank you playing good "Goodbye" 
+            - print Thanks for playing Great Job!
         - otherwise: 
             - print invalid choice
     - repeat until user enter 0 
