@@ -8,6 +8,7 @@ main()
     - constructor 
     - end main 
 ```
+
 ## Guesser
 ```
 guesser() 
@@ -27,6 +28,7 @@ guesser()
     - repeat until user enter 0 
     - end constructor
 ```
+
 ## humanGuesser
 ```
 humanGuesser() 
