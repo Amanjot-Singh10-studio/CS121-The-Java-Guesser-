@@ -1,7 +1,8 @@
 # CS121-The-Java-Guesser-
 ## Algorithm 
 ```
-### Main 
+```
+## Main
 ```text
 main() 
     - guesser object 
